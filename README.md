@@ -18,3 +18,5 @@ After the examination of first few rows and column values, these are our assumpt
         Left (label that represents whether employee is the current or former one)
 
 The aim of this project is to use this data to predict the possiblity of an employee leaving the organisation in the near future.
+
+# Employee Departure Prediction (Semi-Supervised Learning)
